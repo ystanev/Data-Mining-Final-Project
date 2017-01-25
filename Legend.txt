@@ -1,0 +1,12 @@
+ROC's -> OutputData and inside of Data Summary
+Computation Times -> Data Summary
+Confusion Matrices -> Data Summary
+Computational Complexities -> Data Summary
+
+Yale Study Source -> https://fairmodel.econ.yale.edu/rayfair/pdf/1978a200.pdf
+Affair Data Source -> https://fairmodel.econ.yale.edu/vote2012/affairs.txt
+
+Affairs.txt is within the AffairData folder
+
+Thanks,
+Matthew Fischer, Yury Stanev
